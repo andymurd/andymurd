@@ -4,7 +4,9 @@
 
 # 👋 Hi there, I'm Andy Murdoch
 
-I'm a system architect living in Adelaide, South Australia. I'm currently working for <a href="https://maxmine.com.au" target="_blank">MaxMine</a> providing shared services and APIs for a mining data analytics piepline.
+I'm a system architect living in Adelaide, South Australia. I'm currently working for <a href="https://maxmine.com.au" target="_blank">MaxMine</a> providing shared services and APIs for a mining data analytics pipeline.
+
+As you can see, almost all of my code is kept private and github account is mostly used for forking and patching to third-party repos.
 
 ## Languages
 
@@ -41,6 +43,7 @@ I'm a system architect living in Adelaide, South Australia. I'm currently workin
 <p align="left">
 	<a href="https://linkedin.com/in/andymurd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Andy Murdoch on Linked In" height="30" width="40" /> </a>
 	<a href="https://twitter.com/andymurd" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Andy Murdoch on Twitter" height="30" width="40" /> </a>
+	<a href="https://stackoverflow.com/users/38346/andymurd" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Andy Murdoch on Stack Overflow" height="30" width="40" /> </a>
 </p>
 
 
